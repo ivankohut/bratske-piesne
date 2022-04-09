@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Slyším, Pane, jak déšť z nebe</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>542</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Slyším, Pane, jak déšť z nebe,
  jejžs dal z lásky nesmírné,
@@ -50,4 +39,4 @@
  požehnej, ach, také mne!||
  Také mne, také mne,
  Pane, žehnej také mne!</lyrics>
-  <hymn_number>542</hymn_number></song>
+</song>

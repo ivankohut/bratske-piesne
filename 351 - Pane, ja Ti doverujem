@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pane, ja Ti dôverujem</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>351</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pane, ja Ti dôverujem,|Kráľu slávy, Ježišu.
  V Tebe srdce roztúžené|nájde radosť najväčšiu.
@@ -33,4 +21,5 @@
  Všetky zvody pokušenia|premôže len Tvoja moc.
 [V5]
  Pane, ja Ti dôverujem,|dôverujem v každý čas.
- Do večnej ma uveď slávy,|ta, kde znie tvoj sladký hlas.</lyrics></song>
+ Do večnej ma uveď slávy,|ta, kde znie tvoj sladký hlas.</lyrics>
+</song>

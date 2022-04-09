@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Zlaté harfy zvučia</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>106</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Zlaté harfy zvučia,|v nebesiach spev znie!
  Večné z perál brány|pootvárané!||
@@ -33,4 +22,4 @@
  pripravuje pre nich|preblaženú vlasť.||
  Oroduje za nás,|veď nás miluje,
  Ježiš večne žije,|večne kraľuje.</lyrics>
-  <hymn_number>106</hymn_number></song>
+</song>

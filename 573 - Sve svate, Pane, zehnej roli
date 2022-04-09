@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Své svaté, Pane, žehnej roli</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>573</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Své svaté, Pane, žehnej roli
  a těm, již vedou lásky pluh
@@ -39,4 +28,4 @@
  Jim po práci a odříkání
  jít domů dopusť z třesku zbraní
  v ráj blažený,|v ráj blažený!</lyrics>
-  <hymn_number>573</hymn_number></song>
+</song>

@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Duchu svätý, v celom svete</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>146</hymn_number>
   <presentation>V1 V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Duchu svätý, v celom svete
  roznieť v srdciach oheň svoj.
@@ -38,4 +27,4 @@
  Duchu svätý, obživ nás!
  Vodu živú len Ty máš. :/
  Duchu svätý, obživ nás!</lyrics>
-  <hymn_number>146</hymn_number></song>
+</song>

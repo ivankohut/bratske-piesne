@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Mňa hriechu moc už neviaže</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>336</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Mňa hriechu moc už neviaže,|ja Kristov sluha som.
  On zlomil putá, reťaze,|už nie som otrokom!
@@ -30,4 +18,5 @@
  Chcem verne slúžiť,|Tebe žiť, viac pánov nepoznám.
 [V5]
  Ty zdvihol si ma zo zeme|a vedieš k výšinám.
- My vždy len spolu pôjdeme:|ja sluha, Ty môj Pán!</lyrics></song>
+ My vždy len spolu pôjdeme:|ja sluha, Ty môj Pán!</lyrics>
+</song>

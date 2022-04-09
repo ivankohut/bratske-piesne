@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pokušení přemoz</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>429</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pokušení přemoz,|podvodný je hřích,
  strhej jeho sítě,|sic jsi lapen v nich!||
@@ -33,4 +21,5 @@
  Bojuj boj ten dobrý,|ke koruně spěj,
  nepřátel se neboj,|aniž hany dbej!||
  Čím je těžší zápas,|tím je bližší Pán,
- vytrvej, jen věrným|věnec bude dán.</lyrics></song>
+ vytrvej, jen věrným|věnec bude dán.</lyrics>
+</song>

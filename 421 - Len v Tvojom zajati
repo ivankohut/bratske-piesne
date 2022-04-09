@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Len v Tvojom zajatí</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>421</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Len v Tvojom zajatí,|môj Pane, voľný som.
  Keď prinútiš ma poddať sa,|som v pravde víťazom.||
@@ -35,4 +23,5 @@
  Až vtedy vôľu mám,|keď Tebe som ju dal,
  i keby na trón dosiahla,|vzdať musí sa ho kráľ.||
  Však nik ju nezlomí,|ni búrka zúrivá,
- keď v Tebe nájde život svoj|a v Tebe spočíva.</lyrics></song>
+ keď v Tebe nájde život svoj|a v Tebe spočíva.</lyrics>
+</song>

@@ -1,21 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Kto vleje srdcu</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>409</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Kto vleje srdcu útechu,|kto vloží nádej v hruď?
  Kto povie duši ustatej:|ver, dobrej mysle buď?
@@ -30,4 +18,5 @@
  K životu čo je potrebné,|všetko v ňom daroval.
 [V5]
  Dôveruj Bohu, duchu môj,|pomoc je hotová.
- Cestami skúšok vedie ťa|do ríše pokoja.</lyrics></song>
+ Cestami skúšok vedie ťa|do ríše pokoja.</lyrics>
+</song>

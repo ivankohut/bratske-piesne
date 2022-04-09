@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Vzhliadni na nás</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>147</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Vzhliadni na nás, Spasiteľu,
  pošli oheň z neba zas!
@@ -42,4 +31,4 @@
  vzbuď ich k žitiu novému.
  Pane, počuj naše prianie,
  uzdrav dušu zlomenú!</lyrics>
-  <hymn_number>147</hymn_number></song>
+</song>

@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Môj Otec je Kráľ</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>667</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Môj Otec je Kráľ,|dosť bohatstva má,
  On z pokladov Ducha|vždy ochotne dá.||
@@ -35,4 +24,4 @@
  ten hlinený obal|už odstráni z nás!||
  Tu zbavený ťarchy|a tiesne a vín
  sa pred Otcom pokloní|spasený syn.</lyrics>
-  <hymn_number>667</hymn_number></song>
+</song>

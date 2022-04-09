@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ó, aká prednosť poslom byť</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>369</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ó, aká prednosť poslom byť|a spásy svätú zvesť
  až k šírym sveta končinám smieť,|šťastný, ľuďom niesť.
@@ -29,4 +17,5 @@
  Dosť miesta ešte v dome je,|čo prichystal si nám.
 [V3]
  Hoc nebezpečia hrozia nám|a desí búrky hlas,
- však cirkev Tvoja|na skale stáť bude v každý čas.</lyrics></song>
+ však cirkev Tvoja|na skale stáť bude v každý čas.</lyrics>
+</song>

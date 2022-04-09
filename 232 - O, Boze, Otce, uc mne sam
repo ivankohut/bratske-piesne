@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ó, Bože, Otče, uč mne sám</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>232</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ó, Bože, Otče, uč mne sám,|když světa pouští bloudě lkám,
  jak z hloubi duše volat mám:|/: „Buď vůle Tvá!“ :/
@@ -30,4 +18,5 @@
  a vždy byl volat ochoten:|/: „Buď vůle Tvá!“ :/
 [V5]
  Až posléz můj se ztají dech|a konec bude bouří všech,
- pak zvolám|s houfem svatých všech:|/: „Buď vůle Tvá!“ :/</lyrics></song>
+ pak zvolám|s houfem svatých všech:|/: „Buď vůle Tvá!“ :/</lyrics>
+</song>

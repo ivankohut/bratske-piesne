@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ó, veď ma sám</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>225</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ó, veď ma sám, ja nemám síl,
  bo svetla pravdy vo mne niet.
@@ -35,4 +23,5 @@
  Ó, Pane môj, niet nad Tvoj kríž,
  veď žertvy, krvi v ňom je moc,
  tou mocou moje srdce stíš
- a zažeň žiaľu, hriechu moc.</lyrics></song>
+ a zažeň žiaľu, hriechu moc.</lyrics>
+</song>

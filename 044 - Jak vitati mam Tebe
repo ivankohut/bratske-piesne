@@ -3,18 +3,8 @@
   <title>Jak vítati mám Tebe</title>
   <author>Paul Gerhardt. Přel. J. Stránsky; hudba M. Teschner</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>44</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Jak vítati mám Tebe,|můj Králi s výsosti,
  jemužto zem i nebe|vstříc plesá s vroucností?||
@@ -40,4 +30,4 @@
  a svým pak věrným zase|dá v nebi s sebou díl.||
  Ó, přijdiž, přežádoucí|a v svou nás pojmi říš,
  kdež, Slunce nehasnoucí,|se věčnou slávou skvíš!</lyrics>
-  <hymn_number>44</hymn_number></song>
+</song>

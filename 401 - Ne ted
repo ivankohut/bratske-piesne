@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ne teď</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>401</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ne teď, však přijde jednou čas,|až stánek těla opustím,
  pak bol a srdce teskný hlas|a smysl žalu pochopím.
@@ -27,4 +15,5 @@
  že plamének mé víry has’,|ne zde, však v nebi pochopím.
 [V3]
  Bůh dobře zní tvých kroků cíl|a vede je ve slávy říš,
- kde v tichém blahu milých chvil|svá utrpení pochopíš.</lyrics></song>
+ kde v tichém blahu milých chvil|svá utrpení pochopíš.</lyrics>
+</song>

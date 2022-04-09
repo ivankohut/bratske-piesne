@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pod krížom Kristovým</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>250</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pod krížom Kristovým
  stál som raz, prosil som:
@@ -42,4 +30,5 @@
  K prameňu spasenia poď už dnes,
  ponor sa do neho celý hneď,
  v srdci ti zazvučí vďačný ples:
- sláva Jemu buď!</lyrics></song>
+ sláva Jemu buď!</lyrics>
+</song>

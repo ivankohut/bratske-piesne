@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ó, Pane, zostaň s nami</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>426</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ó, Pane, zostaň s nami|a svoju milosť daj.
  Keď hriech a satan vábi,|Ty silu požehnaj.
@@ -30,4 +18,5 @@
  Daj spočinutie v Tebe,|keď hrozí temný mrak.
 [V5]
  Ó, Pane, zostaň s nami|a verne o nás dbaj.
- My chceme byť len Tvoji,|tú milosť nám Ty daj.</lyrics></song>
+ My chceme byť len Tvoji,|tú milosť nám Ty daj.</lyrics>
+</song>

@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Co činí Bůh, vše dobré jest</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>335</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Co činí Bůh, vše dobré jest,|On dobře se mnou míní.
  Rád jeho ruce dám se vést,|jež před vším zlým mne stíní.||
@@ -35,4 +23,5 @@
  Co činí Bůh, vše dobré jest,|ač kalich hořkým zdá se,
  jejž někdy k rtům mi ráčí nést,|však vím, že jest mi k spáse.||
  Až poslední On rozední|nad námi záři jasnou,
- tu všecky boly zhasnou.</lyrics></song>
+ tu všecky boly zhasnou.</lyrics>
+</song>

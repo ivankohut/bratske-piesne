@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Na Ježiša, Kráľa svojho</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>466</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Na Ježiša, Kráľa svojho,|myslievaj, mysli vždy.
  V každej chvíli žitia tvojho|na neho mysli vždy.||
@@ -35,4 +23,5 @@
  A keď blaho Boh ti dáva,|na neho mysli vždy.
  Že len v ňom si dostal práva,|na neho mysli vždy.||
  Na ortieľ, čo „Milosť“ znel,|na otcovskej lásky diel,
- na preslávny žitia cieľ.|Na neho mysli vždy!</lyrics></song>
+ na preslávny žitia cieľ.|Na neho mysli vždy!</lyrics>
+</song>

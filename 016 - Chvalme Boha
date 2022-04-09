@@ -3,18 +3,9 @@
   <title>Chvalme Boha</title>
   <author>F. Norbert Čapek; Harm. D. M.</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>16</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
   <theme>Bůh: Otec; </theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Chvalme Boha,|neb jest dobrotivý,
  s díkem vroucím|vzdejme jemu čest!||
@@ -30,4 +21,4 @@
  nesme světu|onu blahou zvěst,||
  že jest v Kristu|milost pro každého:
  Boží láska|nevýmluvná jest.</lyrics>
-  <hymn_number>16</hymn_number></song>
+</song>

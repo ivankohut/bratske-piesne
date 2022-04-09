@@ -5,17 +5,6 @@
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>205</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Príď do srdca môjho,
  Kráľ lásky,
@@ -34,4 +23,5 @@
  a úplne život zmeň,
  nech bez strachu,
  ľútosti sláviť smiem
- príchodu Tvojho deň.</lyrics></song>
+ príchodu Tvojho deň.</lyrics>
+</song>

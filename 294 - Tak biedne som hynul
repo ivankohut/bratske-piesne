@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Tak biedne som hynul</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>294</hymn_number>
   <presentation>V1 C1 V2 C2 V3 C2 V4 C2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Tak biedne som hynul,|mrel uprostred vĺn,
  preč unášal vietor|môj bezmocný čln.||
@@ -45,4 +33,5 @@
  Strach, starosti nemám,|veď nebo i zem
  môj Spasiteľ riadi,|to bezpečne viem.||
  Hľa, jagá sa more,|vždy krášli ho mier,
- loď pláva tak tíško|v ten nebeský cieľ.</lyrics></song>
+ loď pláva tak tíško|v ten nebeský cieľ.</lyrics>
+</song>

@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ó, Bože, darca milosti</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>548</hymn_number>
   <presentation>V1 V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ó, Bože, darca milosti,
  náš duch sa nesie k výsosti
@@ -33,4 +22,4 @@
  a Tvoje meno vzývame,
  kým naša duša príde ta,
  kde zástup verných chváli Ťa.</lyrics>
-  <hymn_number>548</hymn_number></song>
+</song>

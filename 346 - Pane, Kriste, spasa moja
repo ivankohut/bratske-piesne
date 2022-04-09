@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pane, Kriste, spása moja</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>346</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pane, Kriste, spása moja,|v náruč svätú priviň ma,
  vzdutých vôd keď prúdy hučia,|srdce mi chce schvátiť tma.
@@ -30,4 +18,5 @@
  Utíš, uzdrav dušu, srdce,|daj mi uzrieť domov svoj.
 [V5]
  Dobre je Ti dôverovať!|Ó, ja chcem vždy Tvojím byť,
- v nebi chcem Ťa vidieť večne,|tu i tam len s Tebou žiť.</lyrics></song>
+ v nebi chcem Ťa vidieť večne,|tu i tam len s Tebou žiť.</lyrics>
+</song>

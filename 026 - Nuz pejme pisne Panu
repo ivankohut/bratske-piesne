@@ -3,18 +3,9 @@
   <title>Nuž pějme písně Pánu</title>
   <author>F. Norbert Čapek; Harm. J. Urbanec</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>26</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
   <theme>Bůh: Otec; </theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Nuž, pějme písně Pánu|a lidem k radosti
  nuž, milujme se spolu|a ničme žalosti.||
@@ -30,4 +21,4 @@
  Proč duši marně soužíš?|Pojď k zdroji radosti!||
  Ó, ponoř v Boží lásku|své boly mučivé,
  Pán upraví ti cestu|a zhojí nitro tvé.</lyrics>
-  <hymn_number>26</hymn_number></song>
+</song>

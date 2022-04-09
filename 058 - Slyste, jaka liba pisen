@@ -3,18 +3,8 @@
   <title>Slyšte, jaká libá píseň</title>
   <author>J. Cawood. Přel. J. Stránsky</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>58</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Slyšte, jaká libá píseň|rozléhá se po nebi!
  Andělů to svaté sbory|Pána Boha velebí.||
@@ -30,4 +20,4 @@
  až nám v jasné nebes říši|vzejde nový slávy den!||
  Tam, už běd i hříchů prosti,|nové počnem chválení:
  Sláva Bohu na výsosti,|síla, moc i spasení!</lyrics>
-  <hymn_number>58</hymn_number></song>
+</song>

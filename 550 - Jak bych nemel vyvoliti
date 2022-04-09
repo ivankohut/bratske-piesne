@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Jak bych neměl vyvoliti</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>550</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Jak bych neměl vyvoliti jej,|jenž vůdcem nejlepším?
  Jak bych neměl za ním jíti,|za Beránkem za Božím?
@@ -29,4 +18,4 @@
 [V4]
  Otče, dej, bych pohřben hříchu|v Kristu živ byl každý den,
  by mne našel v první lásce,|až se zjeví oslaven!</lyrics>
-  <hymn_number>550</hymn_number></song>
+</song>

@@ -3,18 +3,8 @@
   <title>Čujte slávny neba ples</title>
   <author>Ján Kana. Upr. M. Šramo</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>52</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Čujte slávny neba ples:|„Kristus narodil sa dnes!
  Sláva Bohu na nebi,|pokoj ľuďom na zemi!“||
@@ -30,4 +20,4 @@
  Prišiel s Bohom zmieriť nás,|do nebeských uviesť krás.||
  Plesaj, ľudstvo, v lásky čas,|ožiaril ťa z neba jas.
  /: Prišiel Knieža pokoja|svet si získať bez boja. :/</lyrics>
-  <hymn_number>52</hymn_number></song>
+</song>

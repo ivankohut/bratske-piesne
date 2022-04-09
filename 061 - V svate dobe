@@ -3,18 +3,8 @@
   <title>V svaté době</title>
   <author>Jan Janata ml.</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>61</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  V svaté době, Bože, Tobě|Haleluja zpíváme,
  /: s cherubíny, serafíny|oběť chvály vzdáváme. :/
@@ -27,4 +17,4 @@
 [V4]
  I my Tobě v této době|Haleluja zpíváme,
  /: s cherubíny, serafíny|oběť chvály vzdáváme. :/</lyrics>
-  <hymn_number>61</hymn_number></song>
+</song>

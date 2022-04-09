@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Včera, dnes i naveky</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>296</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Včera, dnes i naveky
  náš Pán ten istý je.
@@ -60,4 +48,5 @@
  Skoro ho už uvidíme
  v jeho slávny deň!
  „Tento Ježiš z neba príde,
- ako odišiel.“</lyrics></song>
+ ako odišiel.“</lyrics>
+</song>

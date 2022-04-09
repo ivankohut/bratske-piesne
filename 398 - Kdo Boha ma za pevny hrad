@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Kdo Boha má za pevný hrad</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>398</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Kdo Boha má za pevný hrad,
  nic nemusí se zlého bát.
@@ -30,4 +18,5 @@
  Nad vrchy, doly vodami
  je ruka Páně nad námi,
  jen spoléhejme pevně naň
- a dál se jeho vůle staň!</lyrics></song>
+ a dál se jeho vůle staň!</lyrics>
+</song>

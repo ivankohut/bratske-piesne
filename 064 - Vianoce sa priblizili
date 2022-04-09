@@ -3,18 +3,8 @@
   <title>Vianoce sa priblížili</title>
   <author>K. Royová</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>64</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Vianoce sa priblížili,|radostný čas nastal nám!
  Roztúžení pozeráme|k betlehemským končinám,||
@@ -35,4 +25,4 @@
  Pána nášho nebeského|preradostne vítajme!||
  Z lásky na zem zostúpil,|tak nás z hriechov vykúpil.
  Kráľu nebies vyvýšený,|vitaj, vitaj nám!</lyrics>
-  <hymn_number>64</hymn_number></song>
+</song>

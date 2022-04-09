@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Bratia, sestry, ponáhľajme</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>317</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Bratia, sestry, ponáhľajme|za Ježišom na Sion,
  nech z nás nikto nezabudne,|čo nám všetko získal On.||
@@ -35,4 +23,5 @@
  Napred, brat a sestra drahá,|za Ježišom na Sion.
  Silu k púti, pomoc k boju,|víťazstvo nám dáva On.||
  Veď sme z hriechov vyprostení,|za dedičov prehlásení,
- /: čaká na nás večný trón. :/</lyrics></song>
+ /: čaká na nás večný trón. :/</lyrics>
+</song>

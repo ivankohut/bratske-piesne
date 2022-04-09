@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pane, buď vždy vůdcem mým</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>397</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pane, buď vždy vůdcem mým|v plavbě mezi úskalím!
  Bouře děsí duši mou, pomoz!|Hledám spásu Tvou.||
@@ -27,4 +15,5 @@
 [V3]
  Ku břehu až přistanu,|vezmi mne v svou ochranu;
  v jeku bouře divoké|přiviň k sobě dítko své, těš mne:||
- „Nic se nestrachuj!|Já jsem jistý vůdce tvůj!“</lyrics></song>
+ „Nic se nestrachuj!|Já jsem jistý vůdce tvůj!“</lyrics>
+</song>

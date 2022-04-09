@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Tam k nebes výši</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>650</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Tam k nebes výši povznes zraky,
  tam k Bohu zaleť, duchu můj,
@@ -43,4 +32,4 @@
  se tobě palma rozvila.||
  I tebe Kristus k svatbě zove,
  nuž, stroj se k svatbě Beránkově!</lyrics>
-  <hymn_number>650</hymn_number></song>
+</song>

@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Spasený som, sláva Ti</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>136</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Spasený som, sláva Ti,|Ježišu môj,
  v Tvojej krvi záchrany|vzácny je zdroj.||
@@ -38,4 +27,4 @@
  za mňa tiež si dokonal|na kríži boj.||
  S Tebou noc sa premení|na slávny deň,
  vzkriesený si pri Tebe|odpočiniem.</lyrics>
-  <hymn_number>136</hymn_number></song>
+</song>

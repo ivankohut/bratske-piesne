@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Stvoř srdce čisté</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>229</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Stvoř srdce čisté,
  Bože, mi a ducha přímého,
@@ -35,4 +23,5 @@
  Duch svatý rosou milosti
  mi stále v srdce lej,
  ať mír Tvůj v něm se uhostí,
- ať zřím Tvůj obličej!</lyrics></song>
+ ať zřím Tvůj obličej!</lyrics>
+</song>

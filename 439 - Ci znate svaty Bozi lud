@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Či znáte svätý Boží ľud</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>439</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Či znáte svätý Boží ľud?|On dlho v putách žil,
  keď zlému slúžil pánovi|a jemu otročil.||
@@ -33,4 +21,5 @@
  A kto i diabla premohol,|i putá odstránil?||
  Ach, On to bol, Kráľ večnej slávy,|Syn Boží, Ježiš sám,
  a v svetle jeho božskej lásky|žiť, mrieť je dobré nám.||
- Ježišu náš,|Ježišu náš.|Ježišu náš,|si drahý nám.</lyrics></song>
+ Ježišu náš,|Ježišu náš.|Ježišu náš,|si drahý nám.</lyrics>
+</song>

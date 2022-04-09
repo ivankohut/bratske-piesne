@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ó, Pane, jenž mne nenecháš</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>345</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ó, Pane, jenž mne nenecháš,|svůj mír vlej v duši zraněnou!
  Co dal jsi mi, Ti vracím již,|můj pramen ve svém moři ztiš|a rozviň v plnost svou!
@@ -27,4 +15,5 @@
  když v mraku jasnou duhu zřím|a s jitrem slzy setřít smím!|Co slíbils’, pravda jest.
 [V4]
  Ó, kříži, což se mám tě bát,|když k tobě zrak se vzhůru pne?
- A byť bych vše zde ve hrob klad,|zřím nový život rozkvétat,|jenž nikdy nezvadne.</lyrics></song>
+ A byť bych vše zde ve hrob klad,|zřím nový život rozkvétat,|jenž nikdy nezvadne.</lyrics>
+</song>

@@ -3,18 +3,9 @@
   <title>Boh je skala</title>
   <author>J. Bowring. Preložil J. Kana. Upravil M. Šramo; J Conkey</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>3</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
   <theme>Bůh: Otec; </theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Boh je skala, hrad a štít náš,|úkryt pevný máme v ňom.
  Nič nám škodiť|nesmie v svete|keď je naša nádej On.
@@ -27,4 +18,4 @@
 [V4]
  Boha, Otca nášho slávme,|vzdajme jemu chválu, česť.
  Z jeho lásky všetko máme|ako včera, tak i dnes.</lyrics>
-  <hymn_number>3</hymn_number></song>
+</song>

@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Veď, Světlo, dál</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>407</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Veď, Světlo, dál, svou záři rozšiřuj,|ó, veď mne vpřed!
  Noc tmavá jest a dalek domov můj,|ó, veď mne vpřed!||
@@ -30,4 +18,5 @@
  Tak dlouho provází mne|světlem svým Tvá zářná moc
  přes hory, tmou a stínu údolím,|než mine noc.||
  A pak už spatřím úsměv|drahých svých,
- již předešli mne|do bran nebeských!</lyrics></song>
+ již předešli mne|do bran nebeských!</lyrics>
+</song>

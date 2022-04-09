@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Nechcem' želet</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>510</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Nechcem’ želet, nechcem’ lkáti,|loučení když nastal čas.
  Nám jest v službě Pána státi,|jít, kam jeho volá hlas.||
@@ -35,4 +24,4 @@
  kde před tváří Beránkovou|všichni sejdeme se zas.||
  Tam už prosti světa strastí|v nekonečném plesání
  v naší pravé, věčné vlasti|oslavíme shledání.</lyrics>
-  <hymn_number>510</hymn_number></song>
+</song>

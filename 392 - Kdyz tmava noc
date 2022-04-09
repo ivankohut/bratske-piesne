@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Když tmavá noc</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>392</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Když tmavá noc a černý mrak|ti visí nad hlavou
  a nesnáz svírá všelijak,|až klesáš únavou,||
@@ -35,4 +23,5 @@
  Jen častý hovor s Pánem měj,|to srdce posílí!
  Jak učedníci pozvi jej,|když den se nachýlí.||
  Byť před smrtí jsi stál,|proč příliš by ses bál?
- Jen promluv opět s Pánem,|bude dobře zas!</lyrics></song>
+ Jen promluv opět s Pánem,|bude dobře zas!</lyrics>
+</song>

@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Málo nás</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>422</hymn_number>
   <presentation>V1 V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Málo nás,|a přec se nebojíme;|málo nás,|a přece spějem v dál!||
  S námi kráčí,|v něhož důvěříme:|Ježíš náš!|Kdo by se tedy bál?||
@@ -23,4 +11,5 @@
 [V2]
  Bůh je s námi,|to nás v boji sílí,|Bůh je s námi,|to vždy blaží nás!||
  Bdí nad námi,|brání v každou chvíli,|když nás ďábel|zničit chtěl by vráz.||
- Veď nás, Pane, opatruj,|veď nás tam, kde trůn je Tvůj,|do vlasti krás!</lyrics></song>
+ Veď nás, Pane, opatruj,|veď nás tam, kde trůn je Tvůj,|do vlasti krás!</lyrics>
+</song>

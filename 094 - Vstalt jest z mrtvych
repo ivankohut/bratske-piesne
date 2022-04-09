@@ -3,18 +3,8 @@
   <title>Vstalť jest z mrtvých</title>
   <author>Pavel Věrný</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>94</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Vstalť jest z mrtvých Kristus Pán!
  S jásotem zní se všech stran.
@@ -40,4 +30,4 @@
  třeba cestou strastí, ran,
  skrze kříž a hrobu chlad
  ve vzkříšení čest mu vzdát!</lyrics>
-  <hymn_number>94</hymn_number></song>
+</song>

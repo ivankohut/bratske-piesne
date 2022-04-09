@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Nechcem reptať</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>427</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Nechcem reptať, ani žialiť,|že kríž denne musím niesť.
  Pán mi s ním chce k blahu slúžiť,|buď mu za to večná česť!
@@ -30,4 +18,5 @@
  Trpiaceho očakáva|večná sláva nebeská!“
 [V4]
  Pri potoku krištáľovom|žijú mnohí po boji,
- v krátkom čase svojím slovom|Pán aj mňa k nim pripojí.</lyrics></song>
+ v krátkom čase svojím slovom|Pán aj mňa k nim pripojí.</lyrics>
+</song>

@@ -3,18 +3,8 @@
   <title>Sláva Tebe, dobrý Bože náš</title>
   <author>Karol Synovec</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>57</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Sláva Tebe, dobrý Bože náš,|že si svojho Syna dal,
  aby každý, kto mu uverí,|v nebi večný život mal.
@@ -27,4 +17,4 @@
 [V3]
  Krista, Kráľa nebies, vítajme,|v srdciach postavme mu trón.
  Jemu samému sa klaňajme,|nech je vyvýšený On.</lyrics>
-  <hymn_number>57</hymn_number></song>
+</song>

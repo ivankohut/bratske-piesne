@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Duchu svätý, Ty máš moc</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>139</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Duchu svätý, Ty máš moc,
  hrozné temno v svetlo zmeň.
@@ -42,4 +31,4 @@
  každý národ, celý svet.
  Všetkých ľudí v mieri stráž.
  Navždy vládni v nás!</lyrics>
-  <hymn_number>139</hymn_number></song>
+</song>

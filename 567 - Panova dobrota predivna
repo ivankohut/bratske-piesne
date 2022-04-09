@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pánova dobrota predivná</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>567</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pánova dobrota predivná|prevýši naše viny a hriech.
  Kristova svätá krv nevinná|dušu mi zbielila ako sneh.
@@ -27,4 +16,4 @@
 [V3]
  Láska tá predivná, nezmerná!|Každý, kto verí k nej prístup má.
  Ak túžiš Ježiša uvidieť,|poddaj sa milosti Božej hneď.</lyrics>
-  <hymn_number>567</hymn_number></song>
+</song>

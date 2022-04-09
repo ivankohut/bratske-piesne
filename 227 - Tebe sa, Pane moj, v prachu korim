@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Tebe sa, Pane môj, v prachu korím</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>227</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Tebe sa, Pane môj, v prachu korím,
  pokorne v Teba sa cele norím.
@@ -35,4 +23,5 @@
  Nevzďaľuj odo mňa útechy žiar,
  slzy keď zmáčajú strápenú tvár.
  Ruku mi podaj a posilni včas,
- doveď ma v nebeský domova jas.</lyrics></song>
+ doveď ma v nebeský domova jas.</lyrics>
+</song>

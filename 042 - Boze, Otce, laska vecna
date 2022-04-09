@@ -3,18 +3,8 @@
   <title>Bože, Otče, láska večná</title>
   <author>Martin Braxatoris; hudba: Pavel Petrík</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>42</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Bože, Otče, láska večná,|buď Ti vďaka presrdečná,
  že si v naplnenom čase,|poslal Syna k našej spáse.
@@ -24,4 +14,4 @@
 [V3]
  Príď k nám s požehnaním hojným,|s panstvom svojím predôstojným,
  aby kvitlo medzi nami,|vládlo sveta končinami.</lyrics>
-  <hymn_number>42</hymn_number></song>
+</song>

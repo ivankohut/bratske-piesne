@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Řekl Pán Bůh</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>102</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Řekl Pán Bůn Pánu mému,|na pravici mé se posaď.
  Lidstvo poddám žezlu tvému,|za podnož chci vše ti vydat.||
@@ -30,4 +19,4 @@
  On jest dárcem živé vody,|jako Pastýř lid svůj vodí.||
  V nebi za nás oroduje,|příbytky nám připravuje tam,
  kam vstoupil k naší spáse,|odkud brzy přijde zase.</lyrics>
-  <hymn_number>102</hymn_number></song>
+</song>

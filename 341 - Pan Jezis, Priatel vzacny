@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pán Ježiš, Priateľ vzácny</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>341</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pán Ježiš Priateľ vzácny|a duši predrahý,
  vždy pomáha mi bremä niesť|a nikdy nezradí.||
@@ -40,4 +28,5 @@
  Pán vie, že túžim vrelo|mdlé duše k nemu viesť
  a všade smelo vyprávať|tú vzácnu spásy zvesť,||
  že jeho obeť na kríži|nám život získala.
- Tak spolu sme aj v práci,|môj Pán a ja.</lyrics></song>
+ Tak spolu sme aj v práci,|môj Pán a ja.</lyrics>
+</song>

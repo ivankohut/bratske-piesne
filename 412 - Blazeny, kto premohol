@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Blažený, kto premohol</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>412</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Blažený, kto premohol|satanove zvody
  a kto verne v šľapajach|Ježišových chodí.||
@@ -30,4 +18,5 @@
  Blažený, kto premohol|smrti prístrach tmavý
  a kto v ranách Kristových|našiel pokoj pravý.||
  Ó, ten s piesňou radostnou|pôjde pred trón Boží,
- na kolenách pokorne|poctu jemu zloží.</lyrics></song>
+ na kolenách pokorne|poctu jemu zloží.</lyrics>
+</song>

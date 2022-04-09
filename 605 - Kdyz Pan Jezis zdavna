@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Když Pán Ježíš zdávna</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>605</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Když Pán Ježíš zdávna|chodil světem,
  býval vždycky velmi|laskav k dětem:||
@@ -35,4 +24,4 @@
  ó, Ježíši, dej, ať|nezahynem;||
  drž nás pevně,|ať z nás ze všech žádné
  z ruky Tvojí|nikdy nevypadne!</lyrics>
-  <hymn_number>605</hymn_number></song>
+</song>

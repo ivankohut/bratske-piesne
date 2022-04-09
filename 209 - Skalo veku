@@ -5,17 +5,6 @@
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>209</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Skálo věků, skryj mne v svém
  boku, pro mne zbodeném!
@@ -43,4 +32,5 @@
  Skálo věků, skryj mne v svém
  boku, pro mne zbodeném!
  A já půjdu v onu říš,
- kde Ty, Král a Soudce dlíš.</lyrics></song>
+ kde Ty, Král a Soudce dlíš.</lyrics>
+</song>

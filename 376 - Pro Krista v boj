@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pro Krista v boj</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>376</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pro Krista v boj znovu strážní|ctné Boží rytíře;
  jsou dnové zlí a vážní,|v boj, věrní u víře!||
@@ -35,4 +23,5 @@
  Pro Krista v boj v čas boje!|Den míru blízko již.
  Král Kristus věrné voje|uvede v slávy říš.||
  Kdo s ním zde zvítězili,|na trůnu budou s ním.
- Pro Krista, bratři milí,|v boj s bázní, s třesením!</lyrics></song>
+ Pro Krista, bratři milí,|v boj s bázní, s třesením!</lyrics>
+</song>

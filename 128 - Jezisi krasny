@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ježíši krásný</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>128</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ježíši krásný,|Panovníče jasný,
  Boží i lidský Synu!||
@@ -35,4 +24,4 @@
  stín je v nebeské říši;
  žádný však v nebi krásnější
  není nad Tebe, můj Ježíši!</lyrics>
-  <hymn_number>128</hymn_number></song>
+</song>

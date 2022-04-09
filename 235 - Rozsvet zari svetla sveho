@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Rozsvěť záři světla svého</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>235</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Rozsvěť záři světla svého
  ve mně, Pane Ježíši,
@@ -42,4 +30,5 @@
  Za Tebou, ó, Jezu můj,
  ducha mého pozdvihuj,
  po pouti ať nebezpečné
- bydlení mám s Tebou věčné.</lyrics></song>
+ bydlení mám s Tebou věčné.</lyrics>
+</song>

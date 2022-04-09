@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Vzhůru, bratři, k boji</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>371</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Vzhůru, bratři,|k boji, kráčej každý vpřed,
  hleď na vůdce Krista,|následuj ho hned!||
@@ -38,4 +26,5 @@
  Vzhůru tedy, bratři,|připojte se k nám,
  přidejte hlas, ruce|k jeho oslavám!||
  Sláva, čest a chvála,|Kriste, Králi náš,
- vzdávána buď Tobě tam,|kde věrné máš!</lyrics></song>
+ vzdávána buď Tobě tam,|kde věrné máš!</lyrics>
+</song>

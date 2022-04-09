@@ -3,18 +3,9 @@
   <title>Hory, doly, stráně</title>
   <author>J. Stránsky</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>37</hymn_number>
   <presentation>V1 V2 V3 V4 V5 V6 V7 V8</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
   <theme>Bůh: Stvořitel/Stvoření; </theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Hory, doly, stráně,|nebesa i zem,
  /: zvučte ke cti Páně|mocným ohlasem. :/
@@ -39,4 +30,4 @@
 [V8]
  Když pak se přiblíží|večerní k nám stín,
  /: sejmi každou tíži,|v svůj nás přijmi klín. :/</lyrics>
-  <hymn_number>37</hymn_number></song>
+</song>

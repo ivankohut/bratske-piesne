@@ -5,17 +5,6 @@
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>202</hymn_number>
   <presentation>V1 V2 V3 V4 V5 V6</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Tak jaký jsem, ač nemám nic,
  však že mi krev Tvá|kyne vstříc
@@ -45,4 +34,5 @@
  Tak jaký jsem, hle, duše má
  se milosti Tvé poddává
  a již jest Tvá, navěky Tvá,
- Beránku Boží, k Tobě jdu!</lyrics></song>
+ Beránku Boží, k Tobě jdu!</lyrics>
+</song>

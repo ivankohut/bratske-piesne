@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Viz tu lásku Kristovu</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>377</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Viz tu lásku Kristovu,|k pomoci vždy hotovu!||
  Hledá ve dne, hledá v noci,|ať je vedro nebo mráz;
@@ -31,4 +19,5 @@
 [V4]
  „Měls tu lásku Kristovu,|k pomoci vždy hotovu?“||
  Tak se bude ozývati|v nitru duše nejhlubším,
- když se bude Soudce ptáti:|„Jak jsi jednal s bližním svým?“</lyrics></song>
+ když se bude Soudce ptáti:|„Jak jsi jednal s bližním svým?“</lyrics>
+</song>

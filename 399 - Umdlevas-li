@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Umdléváš-li</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>399</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Umdléváš-li, tíží-li tě|hříchů těžké jho,
  věz, že nemáš nad Ježíše
@@ -28,4 +16,5 @@
  než se nadáš,|zarmoucenou zjasní líc.
 [V4]
  On svou něžnou láskou svatou|pozdvihne tě výš,
- radost ráje, pokoj nebes|okusíš.</lyrics></song>
+ radost ráje, pokoj nebes|okusíš.</lyrics>
+</song>

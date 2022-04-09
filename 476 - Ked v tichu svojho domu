@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Keď v tichu svojho domu</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>476</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Keď v tichu svojho domu dliem,
  je Kniha kníh môj verný druh,
@@ -43,4 +31,5 @@
  jej pravdy budem ľuďom niesť,
  by našli cestu k spaseniu.||
  Ty, Pane, blažíš život môj
- a dávaš silu v ťažký boj.</lyrics></song>
+ a dávaš silu v ťažký boj.</lyrics>
+</song>

@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>V Páně jménu</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>570</hymn_number>
   <presentation>V1</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  V Páně jménu shromážděni jsouce,|ruce sobě dáváme.
  Jedni k druhým svorně se vinouce,|upřímně si žádáme,||
  aby pevné byly naše svazky,|bychom plápolali ohněm lásky,
  Pán by věrných přidával,|pokoj srdce ovládal.</lyrics>
-  <hymn_number>570</hymn_number></song>
+</song>

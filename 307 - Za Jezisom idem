@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Za Ježišom idem</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>307</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Za Ježišom idem,
  On je mojím Kráľom,
@@ -60,4 +48,5 @@
  On je múdrosť večná,
  láska svätá, čistá,
  preto kráčam k cieľu
- v svätých stopách Krista.</lyrics></song>
+ v svätých stopách Krista.</lyrics>
+</song>

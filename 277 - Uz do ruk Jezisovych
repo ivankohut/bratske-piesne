@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Už do rúk Ježišových</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>277</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Už do rúk Ježišových
  som zveril život svoj.
@@ -42,4 +30,5 @@
  Už skoro dôjdem domov,
  kde v sláve tróni Pán,
  tam jemu s dušou vrúcnou,
- česť, chválu večnú vzdám.</lyrics></song>
+ česť, chválu večnú vzdám.</lyrics>
+</song>

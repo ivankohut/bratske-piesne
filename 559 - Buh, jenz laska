@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Bůh, jenž láska</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>559</hymn_number>
   <presentation>V1 V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Bůh, jenž láska, Otec milý,
  v Kristu zve nás k hodům svým.
@@ -29,4 +18,4 @@
  každý v oběť položil,||
  chtěl jen svému Mistru žít,
  všude jeho svědkem být!</lyrics>
-  <hymn_number>559</hymn_number></song>
+</song>

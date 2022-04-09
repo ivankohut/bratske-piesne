@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Kto dá mi silu</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>396</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Kto dá mi silu|k púti v ďaleký blaha svet?
  Kto osvieti mi cestu,|úskalie, zradnú sieť?||
@@ -35,4 +23,5 @@
  Kto otvorí mi bránu,|až púť raz skončená?
  V čích rukách leží|vzácna vernosti odmena?||
  Kto položí ma s láskou|ta v náruč Otcovu?
- Pán Ježiš, cesta jasná|k večnému domovu.</lyrics></song>
+ Pán Ježiš, cesta jasná|k večnému domovu.</lyrics>
+</song>

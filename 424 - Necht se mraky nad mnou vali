@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Nechť se mraky nad mnou valí</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>424</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Nechť se mraky nad mnou valí,|nechť se zdá, že kráčím sám,
  pod svým křížem|v smutku mnohém,|po dnech blaha zašlých lkám.||
@@ -35,4 +23,5 @@
  Až se vznesu v říši slávy,|u perlových vlasti bran,
  když zašeptám „Ježíš“ jenom,|vstup mi volný dokořán.||
  Připojen až k počtu věrných|s anděly též zaplesám,
- předmětem mých chvalozpěvů|bude Ježíš, Ježíš sám.</lyrics></song>
+ předmětem mých chvalozpěvů|bude Ježíš, Ježíš sám.</lyrics>
+</song>

@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Z najtmavších nížin zeme</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>107</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Z najtmavších nížin|zeme v slávne nebe
  vstupuje Kristus|v moci, v prevelebe.||
@@ -30,4 +19,4 @@
  k víťazstvu doveď|proti diablu boje!||
  Zažeň tmu a vzbuď|dušu, ktorá drieme!
  Slávu svoju šír|až do končín zeme!</lyrics>
-  <hymn_number>107</hymn_number></song>
+</song>

@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Blúdieval som</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>434</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Blúdieval som v hriechu noci,|v neznalosti, bez pomoci,
  do záhuby ponáhľal som,|v srdci vládol smútok a ston.
@@ -27,4 +15,5 @@
  ale Kristus, svetlo jasné,|rozplašil tmy hriechu strašné.
 [V4]
  S Kristom žijem život nový,|za ním kráčam ku Otcovi.
- On ma vedie v ríšu neba,|v ňom mám všetko, čo mi treba.</lyrics></song>
+ On ma vedie v ríšu neba,|v ňom mám všetko, čo mi treba.</lyrics>
+</song>

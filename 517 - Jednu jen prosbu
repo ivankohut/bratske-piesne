@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Jednu jen prosbu</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>517</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Jednu jen prosbu k Tobě mám,
  že mi ji splníš, Otče, znám:
@@ -41,4 +30,4 @@
  jako ta stálá záře hvězd;
  každičký projev moci Tvé
  oporou pevnou duši je.</lyrics>
-  <hymn_number>517</hymn_number></song>
+</song>

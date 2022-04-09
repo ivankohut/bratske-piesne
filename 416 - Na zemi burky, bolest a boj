@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Na zemi búrky, bolesť a boj</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>416</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Na zemi búrky,|bolesť a boj
  utíši Pán Ježiš,|Spasiteľ môj.||
@@ -33,4 +21,5 @@
  v úzkosti, hrôze|On útechu dal.||
  Svetlom bol očí,|oporou nôh,
  vysoko vyzdvihol|spasenia roh.
- Plesajme, jasajme,|verný je Boh!</lyrics></song>
+ Plesajme, jasajme,|verný je Boh!</lyrics>
+</song>

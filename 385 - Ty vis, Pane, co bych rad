@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ty víš, Pane, co bych rád</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>385</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ty víš, Pane, co bych rád,|dokud živ jsem, zdráv a mlád:
  rád bych celým srdcem svým|sloužil velkým cílům Tvým.
@@ -30,4 +18,5 @@
  kde je zřídlo těchy, vím,|oznámím to lkajícím!
 [V5]
  Svět je zlý a plný vin,|každý z nás je smrti syn;
- v Kristu chceš nám život dát,|k němu budu lidi zvát!</lyrics></song>
+ v Kristu chceš nám život dát,|k němu budu lidi zvát!</lyrics>
+</song>

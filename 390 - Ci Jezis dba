@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Či Ježiš dbá</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>390</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Či Ježiš dbá, keď ma zviera bôľ,|keď zronený, smutný som?
  Či Pán z výsosti nesie starosti,|nájde umdlený silu v ňom?
@@ -27,4 +15,5 @@
  Či On dovolí, aby zvodca zlý|pokoj Boží zo srdca vzal?
 [V3]
  Či Ježiš dbá, keď sa rozlúčim|s tým, kto so mnou roky žil?
- A keď zosmutniem, či mi rozumie?|Či On bolesť neokúsil?</lyrics></song>
+ A keď zosmutniem, či mi rozumie?|Či On bolesť neokúsil?</lyrics>
+</song>

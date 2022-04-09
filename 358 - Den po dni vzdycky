@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Den po dni vždycky</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>358</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Den po dni|vždycky lepší život žít
  a svému Mistru|ve všem věren být,||
@@ -33,4 +21,5 @@
  pak vejít|v onu zaslíbenou zem,||
  kde Pána uzřím|v světle nebeském,
  tam k němu přistoupit|a věnec slávy vzít:
- toť úkol můj!</lyrics></song>
+ toť úkol můj!</lyrics>
+</song>

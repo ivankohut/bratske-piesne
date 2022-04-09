@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pojď k Spasiteli</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>169</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pojď k Spasiteli,|pojď ještě dnes,
  své srdce jemu k oběti nes.||
@@ -40,4 +29,4 @@
  Tobě chci žíti,|Tvým vždycky být.||
  Ty má jsi skála,|Ty můj jsi štít,
  Ty můj jsi Bůh a Pán.</lyrics>
-  <hymn_number>169</hymn_number></song>
+</song>

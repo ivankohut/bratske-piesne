@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Blaze za Tebou je jíti</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>258</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Blaze za Tebou je jíti,
  Jezu, Spasiteli můj!
@@ -50,4 +38,5 @@
  V Tobě toho poznáváme,
  jenž nám z lásky Tebe dal.
  Jezu, cesto k Otci světel,
- kéž by každý Tebe znal!</lyrics></song>
+ kéž by každý Tebe znal!</lyrics>
+</song>

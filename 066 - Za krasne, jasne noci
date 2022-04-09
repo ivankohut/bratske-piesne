@@ -3,18 +3,8 @@
   <title>Za krásné, jasné noci</title>
   <author>E. H. Sears. Přel. J. Rundus</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>66</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Za krásné, jasné noci|se snesla na ten svět
  ta libá míru píseň,|již andělský pěl ret:||
@@ -40,4 +30,4 @@
  již zdávna zvěstovali,|věk nový, žádoucí,||
  věk míru! Potom všude|již zazní vesele
  i píseň, kterou|zdávna tam pěli andělé.</lyrics>
-  <hymn_number>66</hymn_number></song>
+</song>

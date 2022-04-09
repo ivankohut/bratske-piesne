@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Moudrosti poklad z nebe</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>477</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Moudrosti poklad z nebe|je Boží slovo nám,
  jež ku poznání sebe|podává nám Bůh sám.||
@@ -45,4 +34,4 @@
  Své svaté učení nám|čisté zachovávej
  a k jeho činění nám|chuť i sílu dávej,
  k Tvé slávy zvýšení!</lyrics>
-  <hymn_number>477</hymn_number></song>
+</song>

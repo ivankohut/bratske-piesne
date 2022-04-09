@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Rád bych, Jezu, chválu Tvoji</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>134</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Rád bych, Jezu, chválu Tvoji|celou duší vyzpíval,
  rád bych, aby, lásky zdroji,|Tebe každý miloval.
@@ -30,4 +19,4 @@
 [V4]
  Všem bych rád to vypravoval,|jaký Spasitel můj jest,
  všechny lidi k němu volal,|aby jemu vzdali čest.</lyrics>
-  <hymn_number>134</hymn_number></song>
+</song>

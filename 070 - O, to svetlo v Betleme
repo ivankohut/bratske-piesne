@@ -3,18 +3,8 @@
   <title>Ó, to světlo v Betlémě</title>
   <author>N. F. Čapek</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>70</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  /: Ó, to světlo v Betlémě|svítí také v srdce mé. :/||
  /: Každý spěchá k jesličkám,|z chléva stal se Boží chrám, :/
@@ -34,4 +24,4 @@
  /: Ó, ten pokoj v Betlémě|utišuje srdce mé. :/||
  /: Bůh, jenž slibů nemění,|v Kristu dává spasení, :/
  v Kristu dává spasení.</lyrics>
-  <hymn_number>70</hymn_number></song>
+</song>

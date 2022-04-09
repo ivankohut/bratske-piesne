@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Keď ma tiesni pochybnosť</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>400</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Keď ma tiesni pochybnosť,|Ježiš svetlo dá.
  A keď sily nemám dosť,|On ma zachová.
@@ -27,4 +15,5 @@
  Stála obeť Golgoty,|On ju zachová.
 [V3]
  V slabostiach a vo mdlobe|Ježiš podpiera.
- Moje srdce studené|láskou zahrieva.</lyrics></song>
+ Moje srdce studené|láskou zahrieva.</lyrics>
+</song>

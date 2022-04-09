@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pane náš, k svojim večným stanom</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>423</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pane náš,|k svojim večným stanom|veď svoju cirkev sveta tmou,||
  proti zlu, hriechu,|zvodným klamom|Ty jej buď štítom, oporou.||
@@ -30,4 +18,5 @@
  Pánova cirkev,|národ Boží!|Nech nám skvost tejto nádeje||
  vo chvíľach ťažkých|silu množí,|odvahy štítom v bojoch je.||
  Blízko už čas,|keď pre nás príde|Spasiteľ večný, slávny Pán,||
- odkryje taje dosiaľ skryté,|vezme si ľud svoj|v nebies chrám.</lyrics></song>
+ odkryje taje dosiaľ skryté,|vezme si ľud svoj|v nebies chrám.</lyrics>
+</song>

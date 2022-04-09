@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Aj Ježíš, lékař veliký</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>165</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Aj, Ježíš, lékař veliký,
  vzal na se nemoc moji!
@@ -40,4 +28,5 @@
  Hle, Ježíš, lékař veliký,
  je Pánem těla mého.
  On zhojí neduh všeliký,
- neb síla proudí z něho.</lyrics></song>
+ neb síla proudí z něho.</lyrics>
+</song>

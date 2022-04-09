@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Přišli jsme, ó, Ježíši</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>503</hymn_number>
   <presentation>v1 v2 v3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[v1]
  Přišli jsme, ó, Ježíši,|slovo Tvoje poslouchati.||
  Učiň mysl schopnější|pravdu Tvou vždy přijímati,||
@@ -27,4 +16,4 @@
  Světlo světa, Ježíši,|sviť nám jasem světla svého!||
  Duch náš nechť se utiší|v přítomnosti Ducha Tvého.||
  K prosbám, zpěvu, ke kázání|svého uděl požehnání!</lyrics>
-  <hymn_number>503</hymn_number></song>
+</song>

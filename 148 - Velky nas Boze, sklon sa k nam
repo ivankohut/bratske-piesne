@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Veľký náš Bože, skloň sa k nám</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>148</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Veľký náš Bože, skloň sa k nám,
  plný si lásky, sily!
@@ -42,4 +31,4 @@
  na svete sirotami.
  Prídi, Hosť vzácny, nebeský,
  zostaň vždy s nami.</lyrics>
-  <hymn_number>148</hymn_number></song>
+</song>

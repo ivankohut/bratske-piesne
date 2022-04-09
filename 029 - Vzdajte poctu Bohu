@@ -3,18 +3,9 @@
   <title>Vzdajte poctu Bohu</title>
   <author>Karol Kolman; Ján Rosa</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>29</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
   <theme>Bůh: Otec; </theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Vzdajte poctu Bohu|piesňou vrúcich chvál
  za to, že nám mnohú|milosť poznať dal!||
@@ -30,4 +21,4 @@
  k Tvojej cti a chvále|pieseň zaspievať.||
  O čo viac my, Pane,|Teba máme ctiť,
  za spasenie dané|Teba velebiť.</lyrics>
-  <hymn_number>29</hymn_number></song>
+</song>

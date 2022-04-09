@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Zmíraje s Ježíšem</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>449</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Zmíraje s Ježíšem,|s ním budu žít,
  kráčeje s Ježíšem,|jdu v Otcův byt.||
@@ -40,4 +28,5 @@
  Kráčím-li temnotou,|On světlem sám,
  jsem-li já slaboučký,|v něm sílu mám.||
  Ó, já se jemu vždy|rád vésti dám
- v každičkou chvíli,|až do nebes bran!</lyrics></song>
+ v každičkou chvíli,|až do nebes bran!</lyrics>
+</song>

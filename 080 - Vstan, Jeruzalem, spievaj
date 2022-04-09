@@ -3,18 +3,8 @@
   <title>Vstaň, Jeruzalem, spievaj</title>
   <author>O. Betko, st.</author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>80</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Vstaň, Jeruzalem, spievaj,|hľa prichádza Tvoj Kráľ!
  Poď, s radosťou ho vítaj,|kto dnes by stranou stál?||
@@ -30,4 +20,4 @@
  veď ľúbiť nebies Kráľa|aj detské srdce vie.||
  V tom nekonečnom kruhu|sa pred Ježišom skloň,
  nech zvučí naša chvála|sťa hlaholiaci zvon!</lyrics>
-  <hymn_number>80</hymn_number></song>
+</song>

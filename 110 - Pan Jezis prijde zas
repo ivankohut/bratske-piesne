@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pán Ježíš přijde zas</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
+  <hymn_number>110</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pán Ježíš přijde zas na zem k nám,|což, kdyby přišel dnes?
  Přijde v své moci a lásce sám,|což, kdyby přišel dnes?||
@@ -35,4 +24,4 @@
  Bdící a na cestě v nebe stan,|kdyby již přišel dnes?||
  Znamení příští množí se,|vysílá východ světlo své.
  Bděme, neb čas již blízko je!|Což, kdyby přišel dnes?</lyrics>
-  <hymn_number>110</hymn_number></song>
+</song>

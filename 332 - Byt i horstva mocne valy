@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Byť i horstva mocné valy</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>332</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Byť i horstva mocné valy|ustoupily se svých míst,
  Bůh mi bude v slovu stálý,|jeho láskou jsem si jist.
@@ -31,4 +19,5 @@
 [V4]
  Uč mne Tvoje slovo bráti|radostně a bez pochyb!
  Pak ni smrt mi neuchvátí,|co Tvůj zaručuje slib.
- Pekla moc mi nevyrve,|cos mi dobyl z lásky své.</lyrics></song>
+ Pekla moc mi nevyrve,|cos mi dobyl z lásky své.</lyrics>
+</song>

@@ -5,17 +5,6 @@
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>206</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Jezu ve svém slitování
  popřej sluchu prosbám mým!
@@ -42,4 +31,5 @@
  V Tobě ve tmách pomoc hledám,
  v Tobě konec všem je bědám.
  K vroucím prosbám mým se znej,
- v světle svém mi žíti dej!</lyrics></song>
+ v světle svém mi žíti dej!</lyrics>
+</song>

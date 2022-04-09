@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Zrak roztúžene k horám dvíham</title>
-  <author></author>
   <copyright>Praha 1971 Bratská jednota baptistov</copyright>
   <hymn_number>411</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Zrak roztúžene k horám dvíham|a čakám na pomoc.
  Či bdejem a či k spánku líham,|mňa chráni Božia moc.||
@@ -30,4 +18,5 @@
  Pán z výšin svojich nedozerných|ťa bude ostríhať.
  On stráži cesty svojich verných,|s ním nemusíš sa báť.||
  Dnes, zajtra, celé veky|On bude strážca tvoj.
- Nech vôkol hrôz sa valia rieky,|v ňom dušu upokoj.</lyrics></song>
+ Nech vôkol hrôz sa valia rieky,|v ňom dušu upokoj.</lyrics>
+</song>
